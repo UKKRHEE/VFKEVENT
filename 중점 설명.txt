@@ -75,7 +75,7 @@
  KOR_gathering_the_farright_in_the_military_desc:0 "기존 공화정부에 대한 미온적인 태도를 보며 불만을 가지고 있는 이들이 서울 거리에서 탁주를 까고 있는 김 아무개 뿐만 아니라 군 내부에도 존재한다는 것은 이미 잘 알려진 사실입니다. 이들과의 공조는 우리의 투쟁의 길을 가다듬을 것입니다."
  KOR_establishment_of_the_national_salvation_army_desc:0 ""...치이익, 치이익.\n\n단기 4269년, 부패와 무능으로 국민의 신망을 잃은 정부를 물리치고 우리 국군 장병들은 총 궐기했습니다. 지금 삼남과 관북으로 도주한 잔당들은 곧 진압될 것이며...""
  KOR_stop_democracy_desc:0 "공산주의와 자본주의 같이, 각각의 이념들과 사상들은 국가와 지형에 맞는 개량형이 존재하고 있습니다. 대한 또한 다른 국가들과 다르니, 마땅히 대한의 사정에 맞는 민주가 필요합니다."
- KOR_samcheong_re_education_camp_desc:0 ""
+ KOR_samcheong_re_education_camp_desc:0 "삼청교육대는 국가 내부의 강력범죄자, 조직 폭력배, 그리고... '불온한 사상'을 가지고 있는 이들을 수용, 재교화 과정을 거쳐 사회로 돌려보내기 위해 만든 시설입니다."
  KOR_armed_forces_intelligence_command_desc:0 "국군정보사령부"
  KOR_prussia_in_the_far_east_desc:0 "선군주의"
  KOR_taming_the_jaebeol_desc:0 "재벌 길들이기"
