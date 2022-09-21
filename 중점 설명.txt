@@ -4,7 +4,7 @@
  KOR_formation_of_the_provisional_peoples_committee_desc:0 "임시인민위원회 조직"
  KOR_proclaim_peoples_republic_of_korea_desc:0 "조선인민공화국 선포"
  KOR_yeo_woon_hyung_as_the_leader_desc:0 "좌부터 우까지 많은 이들의 지지를 받는 여운형 동지야말로 신 조선을 위한 지도자에 어울립니다."
- KOR_park_heon_young_as_the_leader_desc:0 "혁명의 고향, 모스크바에서 수학하여 "
+ KOR_park_heon_young_as_the_leader_desc:0 "혁명의 고향, 모스크바에서 수학하여 다시 돌아온 박헌영 동지의 총기는 그야말로 이 조선땅에 어울리는 인재입니다. 조선의 사정을 잘 알고, 조선에서 자란 조선 남아인 만큼 그는 이곳에서의 혁명을 진두지휘할 것입니다."
  KOR_confiscation_of_chaebol_assets_desc:0 "재벌 자산 국유화"
  KOR_lessons_form_the_civil_war_desc:0 "내전의 교훈"
  KOR_korea_manchuria_border_dispute_desc:0 "남만주 포격도발"
@@ -25,8 +25,8 @@
  KOR_support_the_japanese_communist_party_desc:0 "일본공산당 지원"
  KOR_support_the_chinese_communist_party_desc:0 "중국공산당 지원"
  KOR_overthrow_of_japanese_feudalist_desc:0 "일본 봉건주의자 공격"
- KOR_no_cpc_no_new_china_desc:0 "공산당 없인 신중국도 없다"
- KOR_attack_the_western_imperialists_desc:0 "서구 자본가 공격"
+ KOR_no_cpc_no_new_china_desc:0 "미유공산당 미유신중국\n미유공산당 미유신중국\n공산당신노위민족\n공산당타일심구중국"
+ KOR_attack_the_western_imperialists_desc:0 "저 간악하고, 비열하며, 썩어빠진 런던으로부터 비롯된 서구 자본가 세력들이 두 발을 뻗대고 있는 꼴은 더 이상 두고 볼 수는 없습니다. 조선 혁명이 최종국면에 달하였고, "
  
 
 
@@ -34,7 +34,7 @@
  
  KOR_democracy_advance_forward_desc:0 "그 모든 위협이 있다 한들, 이 땅에서 자유와 인권이라는 것은 사라질 수 없습니다. 우리는 이 자유를 만세토록 누릴 것입니다."
  KOR_president_kim_gu_desc:0 "이승만 대통령의 여러 실책은 그와 다른 길을 걷고 있는 김구 후보의 당선을 확실시하게 만들었습니다. "
- KOR_syngman_rhee_reelected_desc:0 "이승만 재선"
+ KOR_syngman_rhee_reelected_desc:0 "누군가 이 대통령의 실책을 이야기한들, 그는 한국을 안정적으로 이끌은 지도자입니다. 가장 확실하고 검증된 선택지야말로 우리에게 필요한 것입니다."
  KOR_independent_party_in_power_desc:0 "독립당 단독집권"
  KOR_cooperation_with_the_jaebeol_desc:0 "재벌과의 협력"
  KOR_liberal_party_sole_power_desc:0 "자유당 단독집권"
@@ -77,7 +77,7 @@
  KOR_stop_democracy_desc:0 "공산주의와 자본주의 같이, 각각의 이념들과 사상들은 국가와 지형에 맞는 개량형이 존재하고 있습니다. 대한 또한 다른 국가들과 다르니, 마땅히 대한의 사정에 맞는 민주가 필요합니다."
  KOR_samcheong_re_education_camp_desc:0 "삼청교육대는 국가 내부의 강력범죄자, 조직 폭력배, 그리고... '불온한 사상'을 가지고 있는 이들을 수용, 재교화 과정을 거쳐 사회로 돌려보내기 위해 만든 시설입니다."
  KOR_armed_forces_intelligence_command_desc:0 "국군정보사령부"
- KOR_prussia_in_the_far_east_desc:0 "선군주의"
+ KOR_prussia_in_the_far_east_desc:0 ""인민군대 강화에 최대의 힘을 넣고 인민군대의 위력에 의거하여 혁명과 건설의 전반 사업을 힘있게 밀고 나가는 특유의 정치" 라고 정의내릴 수 있는 선군정치는, 군사선행의 원칙에서 혁명과 건설에서 나서는 모든 문제를 해결하고 군대를 혁명의 기둥으로 내세워 전체주의 위업 전반을 밀고 나가는 정치방식입니다."
  KOR_taming_the_jaebeol_desc:0 "재벌 길들이기"
  KOR_korea_reigns_above_the_world_desc:0 "세계위에 군림하는 대한"
  KOR_threelegged_boys_desc:0 "삼족오 소년단"
